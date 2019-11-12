@@ -5,4 +5,8 @@ public class DataUtil {
     public void printName(){
 
     }
+
+    public void printName(String name){
+
+    }
 }
