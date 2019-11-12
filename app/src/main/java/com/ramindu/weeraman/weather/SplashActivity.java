@@ -18,5 +18,6 @@ public class SplashActivity extends AppCompatActivity {
         finish();
 
         //This is test class
+        //hellooo
     }
 }
