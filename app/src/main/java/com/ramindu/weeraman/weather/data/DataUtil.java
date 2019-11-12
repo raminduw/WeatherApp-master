@@ -13,4 +13,8 @@ public class DataUtil {
     public void printName(String name,String surname){
 
     }
+
+    public void printName(String name,String midname , String surname){
+
+    }
 }
