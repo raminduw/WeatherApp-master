@@ -9,7 +9,7 @@ public class DataUtil {
         Log.d("TAG" , "Ramindu Nuwan Weeraman");
         Log.d("TAG" , "Ramindu Nuwan Weeraman");
         Log.d("TAG" , "Ramindu Nuwan Weeraman");
-        Log.d("TAG" , "Ramindu Nuwan Weeraman");
+        Log.d("TAG" , "Ramindu Nuwan Weeraman rebase3");
     }
 
     public void printName(String name){
