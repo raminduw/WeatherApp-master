@@ -23,4 +23,10 @@ public class DataUtil {
     public void printName(String name,String midname , String surname){
 
     }
+
+    private void testSqash(){
+        Log.d("TAG" , "Ramindu Nuwan Weeraman testSqash 1");
+        Log.d("TAG" , "Ramindu Nuwan Weeraman testSqash 2");
+        Log.d("TAG" , "Ramindu Nuwan Weeraman testSqash 3");
+    }
 }
