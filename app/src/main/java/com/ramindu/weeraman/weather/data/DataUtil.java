@@ -30,6 +30,11 @@ public class DataUtil {
         Log.d("TAG" , "Ramindu Nuwan Weeraman testSqash 3");
 
 
+        Log.d("TAG" , "Ramindu Nuwan Weeraman testSqash 4");
+        Log.d("TAG" , "Ramindu Nuwan Weeraman testSqash 5");
+        Log.d("TAG" , "Ramindu Nuwan Weeraman testSqash 6");
+        Log.d("TAG" , "Ramindu Nuwan Weeraman testSqash 7");
+
 
     }
 }
