@@ -18,7 +18,7 @@ public class DataUtil {
         Log.d("TAG1234" , name);
         Log.d("TAG" , name+"Test");
          Log.d("TAG" , name+"REMOTE");
-        
+        Log.d("TAG" , "LOCAL");
     }
 
     public void printName(String name,String surname){
